@@ -1,0 +1,9 @@
+^nbproject$
+\.orig\..*$
+\.orig$
+\.chg\..*$
+\.rej$
+\.conflict\~$
+^temp$
+\.log$
+^node_modules$
